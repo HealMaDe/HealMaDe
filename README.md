@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Massoud</h1>
-<h3 align="center">Passionate about data science, particularly in the field of healthcare</h3>
+<h3 align="center">Passionate about health data science</h3>
 
-- 🔭 I’m currently focused on **developing my skills to become a good data scientist**
+- 🔭 I’m currently focused on **drafting my recent research paper: Developing A ML Risk Model to Identify Patients with a Low Probability of Sperm DNA Fragmentation**
 
-- 👯 I’m looking to collaborate on **leveraging data-driven insights to contribute to advancements in healthcare field**
+- 👯 I’m looking to collaborate on **leveraging data-driven insights to contribute to advancements in the healthcare field**
 
-- 📫 How to reach me **massouddehghan1274@gmail.com**
+- 📫 How to reach me **healmade2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
