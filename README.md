@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Massoud</h1>
-<h3 align="center">Passionate about health data science</h3>
+<h3 align="center">Passionate about health data science and precision medicine </h3>
 
-- 🔭 I’m currently focused on **drafting my recent research paper: Developing A ML Risk Model to Identify Patients with a Low Probability of Sperm DNA Fragmentation**
+- 🔬 I’m currently working on **multi-omics integration to uncover molecular fingerprints** and **clinical data clustering**.
 
-- 👯 I’m looking to collaborate on **leveraging data-driven insights to contribute to advancements in the healthcare field**
+- 🎯 My interests lie in **precision medicine, P4 medicine (predictive, preventive, personalized, and participatory), and data-driven healthcare solutions**.
+
+- 🤝 I’m eager to collaborate on **projects that apply machine learning, deep learning, and integrative omics to tackle complex biomedical challenges**.
 
 - 📫 How to reach me **healmade2000@gmail.com**
 
