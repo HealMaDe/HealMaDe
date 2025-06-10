@@ -7,7 +7,7 @@
 
 - 🤝 I’m eager to collaborate on **projects that apply machine learning, deep learning, and integrative omics to tackle complex biomedical challenges**.
 
-- 📫 How to reach me **healmade2000@gmail.com**
+- 📫 How to reach me **massouddehghan1274@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
