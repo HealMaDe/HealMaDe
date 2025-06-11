@@ -3,7 +3,7 @@
 
 - 🔬 I’m currently working on **multi-omics integration to uncover molecular fingerprints** and **clinical data clustering**.
 
-- 🎯 My interests lie in **precision medicine, P4 medicine (predictive, preventive, personalized, and participatory), and data-driven healthcare solutions**.
+- 🎯 My interests lie in data-driven healthcare solutions, particularly in **P4 medicine (predictive, preventive, personalized, and participatory)**.
 
 - 🤝 I’m eager to collaborate on **projects that apply machine learning, deep learning, and integrative omics to tackle complex biomedical challenges**.
 
