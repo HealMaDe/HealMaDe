@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Massoud</h1>
-<h3 align="center">Passionate about health data science and precision medicine </h3>
-
-- 🔬 I’m currently working on **multi-omics integration to uncover molecular fingerprints** and **clinical data clustering**.
-
-- 🎯 My interests lie in data-driven healthcare solutions, particularly in **P4 medicine (predictive, preventive, personalized, and participatory)**.
-
-- 🤝 I’m eager to collaborate on **projects that apply machine learning, deep learning, and integrative omics to tackle complex biomedical challenges**.
+<h3 align="center">💚AI in Medicine💚 </h3>
 
 - 📫 How to reach me **massouddehghan1274@gmail.com**
 
